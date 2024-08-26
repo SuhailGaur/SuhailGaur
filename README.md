@@ -68,7 +68,7 @@
 
 ## 📅 **DATABASES**
 
-[![Sql Server](https://img.shields.io/badge/SQLserver-00000F?style=for-the-badge&logo=sqlserver&logoColor=white "SQL server")][repo]
+[![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sqlite&logoColor=white "SQL")][repo]
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
 
 
