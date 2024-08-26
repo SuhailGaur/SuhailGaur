@@ -61,7 +61,7 @@
 
 ## ⚙️ **BACKEND DEV**
 
-[![Dot Net](https://img.shields.io/badge/DotNet-43853D?style=for-the-badge&logo=dotnet&logoColor=white "DotNet")][repo]
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)][repo]
 [![Web API](https://img.shields.io/badge/WebApi-404D59?style=for-the-badge "Web Api")][repo]
 
 
@@ -74,7 +74,7 @@
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 
-[![C#](https://img.shields.io/badge/C#-3670A0?style=for-the-badge&logo=cSharp&logoColor=ffdd54 "C#")][repo]
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)]
 
 
 ## 🛠️ **DEVOPS TOOLS**
@@ -96,8 +96,8 @@
 ## 📄 **CODE EDITOR & IDES**
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
-[![Sql Server](https://img.shields.io/badge/sql_server-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sql server")][repo]
-[![Visual Studio](https://img.shields.io/badge/visual-studio-FF9900?style=for-the-badge&logo=visual-studio&logoColor=white "Visual Studio")][repo]
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)][repo]
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)][repo]
 
 
 ## 🌐 **BROWSERS**
