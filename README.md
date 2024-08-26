@@ -74,17 +74,17 @@
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 
-[![C#](https://img.shields.io/badge/C#-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "C#")][repo]
+[![C#](https://img.shields.io/badge/C#-3670A0?style=for-the-badge&logo=cSharp&logoColor=ffdd54 "C#")][repo]
 
 
 ## 🛠️ **DEVOPS TOOLS**
-
+ 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")][repo]
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
-[![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)][repo]
-[![Linu
+
+
 
 ## ☁️ **CLOUDS**
 
@@ -96,7 +96,7 @@
 ## 📄 **CODE EDITOR & IDES**
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
-[![Sql Server](https://img.shields.io/badge/sqlserver_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sql server")][repo]
+[![Sql Server](https://img.shields.io/badge/sql_server-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sql server")][repo]
 [![Visual Studio](https://img.shields.io/badge/visual-studio-FF9900?style=for-the-badge&logo=visual-studio&logoColor=white "Visual Studio")][repo]
 
 
