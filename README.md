@@ -61,8 +61,8 @@
 
 ## ⚙️ **BACKEND DEV**
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)[repo]
-[![Web API](https://img.shields.io/badge/WebApi-404D59?style=for-the-badge "Web Api")][repo]
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+[![Web API](https://img.shields.io/badge/WebApi-404D59?style=for-the-badge "Web Api")
 
 
 
@@ -74,7 +74,7 @@
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)]
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 ## 🛠️ **DEVOPS TOOLS**
