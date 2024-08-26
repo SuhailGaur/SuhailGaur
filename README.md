@@ -62,7 +62,7 @@
 ## ⚙️ **BACKEND DEV**
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-[![Web API](https://img.shields.io/badge/WebApi-404D59?style=for-the-badge "Web Api")
+![Web API](https://img.shields.io/badge/WebApi-404D59?style=for-the-badge "Web Api")
 
 
 
